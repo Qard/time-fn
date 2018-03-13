@@ -1,0 +1,21 @@
+{
+  "name": "time-fn",
+  "version": "1.0.0",
+  "description": "Run a function and get execution time",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "time",
+    "benchmark"
+  ],
+  "dependencies": {
+    "convert-hrtime": "^2.0.0"
+  },
+  "devDependencies": {
+    "tap": "^11.1.2"
+  }
+}
