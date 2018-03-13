@@ -12,6 +12,14 @@
     "time",
     "benchmark"
   ],
+  "homepage": "https://github.com/Qard/time-fn#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/time-fn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/time-fn/issues"
+  },
   "dependencies": {
     "convert-hrtime": "^2.0.0"
   },
