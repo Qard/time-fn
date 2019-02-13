@@ -24,6 +24,6 @@
     "convert-hrtime": "^2.0.0"
   },
   "devDependencies": {
-    "tap": "^11.1.2"
+    "tap": "^12.5.2"
   }
 }
