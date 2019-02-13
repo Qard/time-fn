@@ -1,5 +1,7 @@
 # time-fn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/time-fn.svg)](https://greenkeeper.io/)
+
 ## Install
 
 ```sh
